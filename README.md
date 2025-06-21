@@ -5,7 +5,7 @@ Este repositorio contiene una colección de archivos de ejemplo y ejercicios.
 ## Contenido del Repositorio
 
 * **Ejemplos:**
-    * `list_dict.py`: Ejemplo de diferencia entre lista y diferencia
+    * `list_dict.py`: Ejemplo de diferencia entre lista y diccionario
     
 
 * **Ejercicios:**
